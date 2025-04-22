@@ -43,8 +43,7 @@ The project includes the following charts:
 - Bar Chart: Top 10 Genres
 - Bar Chart: Most Frequent Directors
 - Bar Chart: Content Rating Distribution
-- Heatmap: Titles Added by Year and Month
-- Histogram: Distribution of Movie Durations
+- Pie chart : Count of Movies and TV Shows
 
 ---
 
