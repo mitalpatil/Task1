@@ -1,4 +1,4 @@
-# 📊 Netflix Data Analysis – Task 1
+# 📊 Netflix Data Analysis – Task 1 Internship
 
 This project explores and analyzes the [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows) using Python. The analysis includes data cleaning, transformation, descriptive statistics, and insightful visualizations using Matplotlib and Seaborn.
 
