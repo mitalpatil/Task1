@@ -18,8 +18,7 @@ The task was to:
 1. Handle missing values and remove duplicates.
 2. Transform and engineer useful data types and columns.
 3. Perform basic data analysis (averages, counts).
-4. Visualize findings using Matplotlib and Seaborn.
-5. Submit a cleaned script with a brief report.
+4. Visualize findings using Matplotlib .
 
 ---
 
@@ -56,14 +55,6 @@ The project includes the following charts:
 - Bar Chart: Content Rating Distribution
 - Heatmap: Titles Added by Year and Month
 - Histogram: Distribution of Movie Durations
-
----
-
-## 📂 Files Included
-
-- `netflix_analysis.py` – Cleaned and complete Python analysis script
-- `README.md` – This documentation
-- *(Optional)* Jupyter Notebook version if desired
 
 ---
 
