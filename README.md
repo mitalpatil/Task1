@@ -31,17 +31,7 @@ The task was to:
 
 ---
 
-## 📊 Exploratory Data Analysis
 
-Key insights from the dataset:
-
-- **Movies** dominate the platform over **TV Shows**.
-- Most content originates from **United States**, **India**, and **UK**.
-- Common **ratings** include `TV-MA`, `TV-14`, and `R`.
-- Average **movie duration** is ~99 minutes.
-- Content additions peaked around **2019–2020**.
-
----
 
 ## 📈 Visualizations
 
@@ -66,8 +56,3 @@ The project includes the following charts:
 - **NumPy** – numerical operations
 
 
----
-
-## 🙌 Acknowledgments
-
-- Dataset by [Shivam Bansal](https://www.kaggle.com/shivamb) on Kaggle
